@@ -1,1 +1,3 @@
-# C-Hello-World
+# C Hello-World
+
+printf("Hello World");
